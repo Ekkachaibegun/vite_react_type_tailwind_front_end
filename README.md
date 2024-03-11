@@ -1,0 +1,2 @@
+# vite_react_type_tailwind_front_end
+web site by vite_react_typescript_tailwind_front_end
